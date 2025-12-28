@@ -1,6 +1,4 @@
 {
-    "version": "v1.4.5",
-    "versionCode": 1045,
-    "zipUrl": "https://github.com/tryigit/EsimEnable/releases/download/V1.4.5/V1.4.5-esim_enable.zip",
-    "changelog": "https://raw.githubusercontent.com/tryigit/EsimEnable/refs/heads/master/changelog.md"
+    "version": "1.0",
+    "versionCode": 1
 }
