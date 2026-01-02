@@ -4,4 +4,4 @@
 
 # Requirements
 * Android 15+
-* Xiaomi.eu HyperOS2+
+* Xiaomi.eu HyperOS

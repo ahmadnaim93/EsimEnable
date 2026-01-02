@@ -1,5 +1,5 @@
 id=esim
-name=CN Esim Enable
+name=esim
 version=1
 versionCode=1
 description=Enable ESIM option for Xiaomi.eu HyperOS
